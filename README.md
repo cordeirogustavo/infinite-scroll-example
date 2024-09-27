@@ -47,5 +47,5 @@ Ensure you have the following installed:
 3. Run project
 
    ```bash
-   npm run start
+   npm run dev
    ```

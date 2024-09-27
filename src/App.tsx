@@ -76,7 +76,7 @@ function App() {
           next={fetchMoreData}
           hasMore={hasMore}
           loader={<h4>Loading...</h4>}
-          endMessage={<p style={{ textAlign: "center" }}>End of List</p>}
+          endMessage={<p className="text-center">End of List</p>}
           scrollableTarget="scrollableDiv"
         >
           <table className="w-full">
